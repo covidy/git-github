@@ -1,2 +1,2 @@
 # git-github
-tutorial git and github
+This is tutorial purpose.
